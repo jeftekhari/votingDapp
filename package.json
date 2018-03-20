@@ -1,0 +1,25 @@
+{
+  "name": "hello_world_voting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.1.0",
+    "solc": "^0.4.21",
+    "web3": "^0.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeftekhari/votingDapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeftekhari/votingDapp/issues"
+  },
+  "homepage": "https://github.com/jeftekhari/votingDapp#readme"
+}
